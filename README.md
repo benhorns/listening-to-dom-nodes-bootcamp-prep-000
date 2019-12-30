@@ -1,4 +1,4 @@
-# Interacting with the DOM via JavaScript - Codealong
+ening the h# Interacting with the DOM via JavaScript - Codealong
 
 ## Problem Statement
 
